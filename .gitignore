@@ -3,3 +3,4 @@
 /djl/src/main/resources/dataset/
 /twilio/src/main/resources/application.properties
 .idea/
+**/target/
